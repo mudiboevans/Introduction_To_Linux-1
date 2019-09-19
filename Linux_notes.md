@@ -1,4 +1,4 @@
-# Introduction_to_linux
+# Linux_intro
 
 ## Why Unix
 Is a stanadrd operating system in most computer systems in scientific research. It can handle large amount of data in different file formats. i.e text files, fasta files
